@@ -90,7 +90,7 @@ a {
 .news {
   width: 58%;
   padding: 100px 15px;
-  margin: auto 400px;
+  margin: 0 auto;
 }
 
 .news-top {
